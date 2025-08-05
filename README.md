@@ -59,7 +59,7 @@ My goal was to clean the data, explore it deeply using EDA, and finally present 
 ## ✦ Dashboard Preview
 📍 *Snapshot of the interactive dashboard built in Power BI:*
 
-![Hotel Booking Dashboard](Screenshot 2025-08-05 052552.png)
+![Hotel Booking Dashboard](Screenshot2025-08-05052552.png)
 
 ---
 
